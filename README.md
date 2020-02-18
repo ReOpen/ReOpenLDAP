@@ -1,3 +1,5 @@
+<!-- Required extensions: pymdownx.betterem, pymdownx.tilde, pymdownx.emoji, pymdownx.tasklist, pymdownx.superfences -->
+
 ReOpenLDAP
 ==========
 
@@ -189,3 +191,7 @@ Some influential environment variables:
               C compiler flags for MOZNSS, overriding pkg-config
   MOZNSS_LIBS linker flags for MOZNSS, overriding pkg-config
 ```
+
+--------------------------------------------------------------------------------
+
+#### This is the mirror of origin repository that was moved to [abf.io](https://abf.io/erthink/) because of discriminatory restrictions for the Russian Crimea.
